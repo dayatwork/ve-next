@@ -1,8 +1,8 @@
 {
   "about-hef": {
     "tag": "Tentang",
-    "title": "Forum Teknik Perumahsakitan 2021",
-    "content": "'Forum Teknik Perumahsakitan merupakan forum nasional dan pameran internasional virtual pertama yang diselenggarakan oleh Perkumpulan Teknik Perumahsakitan Indonesia (PTPI). Forum ini berfokus pada 6 bidang teknik rumah sakit: Bangunan Rumah Sakit, Mekanikal Rumah Sakit, Elektrikal Rumah Sakit, Lingkungan Rumah Sakit, Informatika Rumah Sakit, dan Alat Medis Rumah Sakit. Lebih dari 40 pembicara dari pemerintah, asosiasi, rumah sakit dan industri diundang. Kami juga menyediakan lebih dari 100 exhibitor lokal dan internasional. Acara ini akan bekerjasama dengan Karya Indonesia Cerdas."
+    "title": "Forum Teknik Perumahsakitan 2022",
+    "content": "Forum Teknik Perumahsakitan merupakan forum nasional dan pameran internasional virtual pertama yang diselenggarakan oleh Perkumpulan Teknik Perumahsakitan Indonesia (PTPI). Pada tahun ini mengangkat 8 topik pembahasan bidang teknik rumah sakit: SPA Penanggulangan Kebakaran dan Evakuasi Rumah Sakit, SPA Penyediaan dan Distribusi Energi Rumah Sakit, SPA Pendukung Smart Hospital dan Rawat Inap, SPA Pengendali Infeksi, Ruang dan Tata Udara, SPA Radiologi dan  Radioterapi, SPA di ICU OK dan CL, SPA Rehabilitasi Medis, SPA Pengolahan Limbah(cair dan padat) dan Air Rumah Sakit. Lebih dari 40 pembicara dari pemerintah, asosiasi, rumah sakit dan industri diundang. Kami juga menyediakan lebih dari 100 exhibitor lokal dan internasional. Acara ini akan bekerjasama dengan Karya Indonesia Cerdas."
   },
   "about-ihea": {
     "tag": "Tentang",
@@ -14,8 +14,8 @@
     "why-3": "PTPI bekerja sama dengan kementerian terkait untuk membahas dan mensosialisasikan regulasi terkait teknik perumahsakitan. Kemen PUPR untuk bangunan dan mekanika, Kemen ESDM untuk kelistrikan, Kemen LKH untuk lingkungan, KOMINFO untuk informatika dan KEMENKES untuk alat kesehatan.",
     "why-4": "PTPI bekerja sama dengan Komisi Akreditasi Rumah Sakit dan Badan Standarisasi Nasional untuk memastikan kualitas produk, layanan dan sistem manajemen memenuhi standar dan peraturan nasional.",
     "why-5": "PTPI juga terus menerus bekerjasama dengan organisasi non-teknik perumahsakitan dan kesehatan lainnya seperti Perhimpunan Rumah Sakit Seluruh Indonesia (PERSI), Ikatan Konsultan Kesehatan Indonesia (IKKESINDO), Ikatan Ahli Kesehatan Masyarakat Indonesia (IAKMI), Asosiasi RS Pendidikan Indonesia (ARSPI), Asosiasi RS Perguruan Tinggi Negeri (ARSPTN), dan Asosiasi RS Swasta Indonesia (ARSSI).",
-    "why-6": "PTPI memiliki 170 anggota korporat yaitu rumah sakit yang terdaftar dalam platform digital SEHAT-RI.",
-    "why-7": " PTPI memiliki 8000 anggota individu mulai dari direktur, manajer, staf medis dan teknisi rumah sakit yang terdaftar dalam platform digital SEHAT-RI.",
+    "why-6": "PTPI memiliki 600 anggota korporat yaitu rumah sakit yang terdaftar dalam platform digital SEHAT-RI.",
+    "why-7": " PTPI memiliki 10000 anggota individu mulai dari direktur, manajer, staf medis dan teknisi rumah sakit yang terdaftar dalam platform digital SEHAT-RI.",
     "why-8": "PTPI secara rutin menyelenggarakan seminar dan workshop bulanan yang telah dihadiri oleh lebih dari 9000 orang selama setahun terakhir.",
     "why-9": " PTPI berdiri sejak 2 tahun yang lalu yaitu pada 3 Oktober 2019 dan diprakarsai oleh Kementerian Kesehatan dan para ahli teknik perumahsakitan di Indonesia.",
     "why-10": "Meski baru berdiri selama 2 tahun, PTPI memiliki pertumbuhan anggota tertinggi (viewers, followers, dan jumlah pelatihan) dibandingkan organisasi sejenis lainnya di Indonesia.",
@@ -34,8 +34,8 @@
       "content": "Pameran produk dari sekitar 100 perusahaan lokal dan internasional di 6 bidang teknik perumahsakitan dan produk terkait COVID-19. Kesempatan untuk bertemu calon pembeli dalam business matching 1 lawan 1 dan eksposur produk kepada 7900 anggota PTPI."
     },
     "program-3": {
-      "title": "Ruang Konsultasi (Business Matching)",
-      "tag": "Bertemu dan Berkonsultasi dengan Para Pakar",
+      "title": "Simulasi Produk",
+      "tag": "Simulasi produk",
       "content": "Kesempatan untuk bertemu dengan pembicara dan peserta pameran dalam sistem Link & Match untuk membahas kolaborasi dan solusi terkait 6 bidang teknik perumahsakitan."
     }
   },
@@ -47,19 +47,19 @@
   "important-dates": {
     "header": "Tanggal Penting",
     "date-1": {
-      "date": "1 September 2021",
+      "date": "25 Februari 2022",
       "event": "Pendaftaran Dimulai"
     },
     "date-2": {
-      "date": "2 Oktober 2021",
+      "date": "21 Mei 2022",
       "event": "Acara Hari Ke-1"
     },
     "date-3": {
-      "date": "16 Oktober 2021",
+      "date": "28 Mei 2022",
       "event": "Acara Hari Ke-2"
     },
     "date-4": {
-      "date": "30 Oktober 2021",
+      "date": "4 Juni 2022",
       "event": "Acara Hari Ke-3"
     }
   }

@@ -32,7 +32,7 @@ export const AuthPageLayout: React.FC = ({ children }) => {
           <div className="pl-16 flex items-center space-x-3">
             <Image height={50} width={50} src="/ptpi.png" alt="PTPI" />
             <div className="text-2xl font-bold text-primary-800 uppercase">
-              Hospital Engineering Forum 2021
+              Hospital Engineering Forum 2022
             </div>
           </div>
           <div className="p-20">
@@ -59,7 +59,7 @@ export const AuthPageLayout: React.FC = ({ children }) => {
                 <CheckCircleIcon className="w-8 h-8 text-primary-700" />
 
                 <span className="flex-1 max-w-sm text-primary-800 text-lg">
-                  More than 8000 PTPI registered members (healthcare
+                  More than 10000 PTPI registered members (healthcare
                   professionals)
                 </span>
               </li>

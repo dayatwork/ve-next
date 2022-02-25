@@ -88,7 +88,7 @@ const Login: NextPage = () => {
                 alt="logo ptpi"
               />
               <span className="text-2xl font-bold text-[#00B4BF]">
-                HEF 2021
+                HEF 2022
               </span>
             </a>
           </Link>

@@ -12,7 +12,7 @@ export const SponsoredBy = () => {
         <h3 className="text-3xl text-gray-700 text-center font-medium">
           {t("sponsored-by")}
         </h3>
-        <div className="max-w-7xl mx-auto mt-10 grid-cols-2 md:grid-cols-3 items-center gap-8 md:gap-20 hidden md:grid">
+        <div className="max-w-7xl mx-auto mt-10 grid-cols-2 md:grid-cols-3 items-center gap-8 md:gap-20 hidden md:grid" style={{display:'none'}}>
           <div className="flex items-center justify-center h-36 p-2">
             <img
               className="object-contain h-full"

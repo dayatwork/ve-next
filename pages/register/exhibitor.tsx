@@ -147,7 +147,7 @@ const RegisterExhibitor: NextPage = () => {
             alt="logo ptpi"
           />
           <Link href="/">
-            <a className="text-2xl font-bold text-primary">HEF 2021</a>
+            <a className="text-2xl font-bold text-primary">HEF 2022</a>
           </Link>
           <h2 className="text-3xl font-bold">{t("register-as-exhibitor")}</h2>
         </div>

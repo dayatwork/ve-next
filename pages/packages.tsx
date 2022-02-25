@@ -27,17 +27,17 @@ const Packages: NextPage = () => {
           <p className="md:text-lg leading-relaxed lg:leading-relaxed text-gray-600 text-center">
             {t("packages.content")}
           </p>
-          <div className="my-4 aspect-w-2 aspect-h-3">
+          {/* <div className="my-4 aspect-w-2 aspect-h-3">
             <Image
               layout="fill"
               objectFit="contain"
               src="/packages.png"
               alt="Packages"
             />
-          </div>
-          <p className="max-w-5xl text-lg leading-relaxed lg:text-xl lg:leading-loose text-gray-600 text-center">
+          </div> */}
+          {/* <p className="max-w-5xl text-lg leading-relaxed lg:text-xl lg:leading-loose text-gray-600 text-center">
             {t("packages.help-text")}
-          </p>
+          </p> */}
         </div>
       </section>
     </LandingPageLayout>

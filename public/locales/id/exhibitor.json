@@ -7,7 +7,7 @@
     "guideline-3": "Masukkan email aktif Anda. Informasi dan notifikasi akan kami kirim melalui email.",
     "guideline-4": "Masukkan nomor hp yang yang terhubung dengan WhatsApp Anda",
     "guideline-5": "Masukkan nama lengkap dan gelar Anda.",
-    "guideline-6": "SPilih jenis pekerjaan anda. Jika anda tidak menemukan jenis pekerjaan yang sesuai, Anda dapat pilih 'Lainnya'",
+    "guideline-6": "Pilih jenis pekerjaan anda. Jika anda tidak menemukan jenis pekerjaan yang sesuai, Anda dapat pilih 'Lainnya'",
     "guideline-7": "Masukkan password Anda dan ketikkan kembali password Anda dalam 'Konfirmasi Kata Sandi'",
     "guideline-8": "Kemudian masukkan data perusahaan Anda",
     "guideline-9": "Masukkan Nama perusahaan/ institusi Anda.",
@@ -18,8 +18,8 @@
     "guideline-14": "Apabila semua sudah terisi, Anda dapat klik “Daftar”. Anda telah terdaftar dan dapat login ke sistem kami. Untuk pedoman lebih lanjut, akan kami beritahukan kemudian."
   },
   "who-exhibit": {
-    "title": "Siapa Exhibitor Kami?'",
-    "overview": "Dalam PTP 2021, akan ada produsen dan distributor alat kesehatan, peralatan dan material rumah sakit, konsultan rumah sakit dan kontraktor sarana rumah sakit yang terbagi dalam 6 bidang industri:",
+    "title": "Siapa Exhibitor Kami?",
+    "overview": "Dalam FTP 2022, akan ada produsen dan distributor alat kesehatan, peralatan dan material rumah sakit, konsultan rumah sakit dan kontraktor sarana rumah sakit yang terbagi dalam 6 bidang industri:",
     "area-1": {
       "name": "Bangunan Rumah Sakit",
       "sub-area": "Struktur & Arsitektur"
@@ -51,7 +51,7 @@
   },
   "why-exhibit": {
     "title": "Mengapa Bergabung?",
-    "overview": "'Di FTP 2021, Anda mendapatkan kesempatan untuk bertemu calon klien dalam pertemuan 1 on 1 melalui sistem pemesanan online dan pencocokan bisnis kami.",
+    "overview": "Di FTP 2021, Anda mendapatkan kesempatan untuk bertemu calon klien dalam pertemuan 1 on 1 melalui sistem pemesanan online dan pencocokan bisnis kami.",
     "profit-1": "Forum bersama antara regulator (pemerintah), akademisi (pakar/perguruan tinggi), dan industri untuk memfasilitasi kebutuhan rumah sakit yang sesuai dengan standar dan kondisi keuangan rumah sakit.",
     "profit-2": "Kesempatan untuk memperkenalkan produk yang memenuhi regulasi atau standar nasional atau internasional (produk yang tidak memenuhi standar atau membahayakan keselamatan pasien dilarang untuk dipresentasikan).",
     "profit-3": "Kesempatan untuk bertemu dengan calon pembeli (40 jadwal pertemuan dalam 3 hari).",
@@ -60,8 +60,8 @@
   },
   "packages": {
     "tag": "Paket",
-    "title": "Daftar Paket Pameran Virtual",
-    "content": "Perusahaan yang tertarik untuk memasarkan produknya di pameran dapat memilih antara paket berikut atau memilih fitur yang diinginkan secara terpisah",
+    "title": "Paket Pameran Virtual",
+    "content": "Perusahaan yang tertarik untuk memasarkan produknya di pameran dapat menghubungi Whatsapp kami di +62 858 9377 7283 (Adrian).",
     "help-text": "Untuk informasi lebih lanjut mengenai harga, Anda dapat menghubungi Whatsapp kami di +62 858 9377 7283 (Adrian)."
   }
 }

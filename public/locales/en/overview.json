@@ -1,8 +1,8 @@
 {
   "about-hef": {
     "tag": "About",
-    "title": "Hopsital Engineering Forum 2021",
-    "content": "Hospital Engineering Forum is the first virtual national seminar and international fair by Indonesian Association of Hospital Engineering (IAHE) which will be held on 2 October, 16 October, and 6 November 2021. This forum focuses on 6 hospital engineering areas: Hospital Building, Hospital Mechanic, Hospital Electric, Hospital Environment, Hospital Informatics, and Hospital Devices. More than 40 speakers from the government, association, hospital and industry sectors are invited. We also provide stands for around 100 local and international exhibitors. This event will be co-organised with Karya Indonesia Cerdas."
+    "title": "Hopsital Engineering Forum 2022",
+    "content": "Hospital Engineering Forum is the first virtual national seminar and international fair by Indonesian Association of Hospital Engineering (IAHE) which will be held on 21 May, 28 May, and 4 Juny 2022. This year, 8 topics were discussed in hospital engineering: SPA for Fire Management and Hospital Evacuation, SPA for Hospital Energy Supply and Distribution, SPA for Supporting Smart Hospitals and Inpatients, SPA for Infection Control, Room and Air Conditioning, SPA for Radiology and Radiotherapy, SPA in ICU OK and CL, SPA Medical Rehabilitation, SPA Waste Treatment (liquid and solid) and Hospital Water. More than 40 speakers from the government, association, hospital and industry sectors are invited. We also provide stands for around 100 local and international exhibitors. This event will be co-organised with Karya Indonesia Cerdas."
   },
   "about-ihea": {
     "tag": "About",
@@ -14,8 +14,8 @@
     "why-3": "IAHE partners up with relevant ministries to discuss and disseminate regulations related to the field of hospital engineering. Ministry of Public Works and Public Housing for building and mechanical system, Ministry of Energy and Mineral Resources for electrical system, Ministry of Environment and Forestry for environmental sustainability, Ministry of Communication and Information for information system, and Ministry of Health for medical equipment.",
     "why-4": "IAHE partners with the National Hospital Accreditation Committee and the National Standardization Agency to ensure the quality of products, services and management systems meet national standards and regulations.",
     "why-5": "IAHE builds relationships with other non-technical organizations of hospital and healthcare such as Indonesian Hospital Association, Indonesia Health Consultant Association, Indonesian Public Health Association, Association of Indonesian Teaching Hospitals, Association of Public University Hospitals, Indonesian Private Hospitals Association, Indonesian Medical Association.",
-    "why-6": "IAHE has more than 170 corporate members registered in the SEHAT-RI  digital platform. They are hospitals and healthcare from various provinces in Indonesia.",
-    "why-7": "IAHE has more than 8000 individual members registered in the SEHAT-RI digital platform. They are hospital directors, managers, medical staff and engineers.",
+    "why-6": "IAHE has more than 600 corporate members registered in the SEHAT-RI  digital platform. They are hospitals and healthcare from various provinces in Indonesia.",
+    "why-7": "IAHE has more than 10000 individual members registered in the SEHAT-RI digital platform. They are hospital directors, managers, medical staff and engineers.",
     "why-8": "IAHE regularly organizes monthly seminars and workshops which have been attended by more than 9000 people over the last year.",
     "why-9": "IAHE was established 2 years ago on 3rd October 2019 and was initiated by the Ministry of Health and hospital engineering experts in Indonesia.",
     "why-10": "Although the association has only been established for 2 years, IAHE has the highest member growth (in terms of viewers, followers, and number of training) compared to other similar organizations in Indonesia.",
@@ -34,9 +34,9 @@
       "content": "Exhibition of products from around 100 local and international  companies in 6 areas of hospital engineering and products related to COVID-19. Opportunity to meet potential buyers in 1 on 1 business matching and product exposure to 7900 IAHE members."
     },
     "program-3": {
-      "title": "Consultatin Room (Business Matching)",
-      "tag": "Meet and Consult with Exhibitors",
-      "content": "Opportunity to meet exhibitors in the Link & Match system to discuss collaborations and solutions related to 6 areas of hospital engineering."
+      "title": "Product Simulation",
+      "tag": "produck simulation",
+      "content": ""
     }
   },
   "webinar-rundown": "Webinar Rundown",
@@ -47,19 +47,19 @@
   "important-dates": {
     "header": "Important Dates",
     "date-1": {
-      "date": "1 September 2021",
+      "date": "25 February 2022",
       "event": "Registration Started"
     },
     "date-2": {
-      "date": "2 October 2021",
+      "date": "21 May 2022",
       "event": "Event Day 1"
     },
     "date-3": {
-      "date": "16 October 2021",
+      "date": "28 May 2022",
       "event": "Event Day 2"
     },
     "date-4": {
-      "date": "30 October 2021",
+      "date": "4 Juny 2022",
       "event": "Event Day 3"
     }
   }

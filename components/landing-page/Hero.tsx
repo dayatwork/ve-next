@@ -103,7 +103,7 @@ const Hero = () => {
                     <span className="text-xl md:text-4xl font-bold px-2 md:px-3">
                       &#183;
                     </span>
-                    <span>Business Matching</span>
+                    <span>Product Simulation</span>
                   </div>
                 </div>
               </div>

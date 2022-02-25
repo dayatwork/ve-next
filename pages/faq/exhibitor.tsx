@@ -46,7 +46,7 @@ const faqs = (t: any) => [
     question: t("exhibitor.faq-6.question"),
     answer: (
       <>
-        <p>{t("exhibitor.faq-6.question")}</p>
+        <p>{t("exhibitor.faq-6.answer")}</p>
         <Link href="/why-exhibit">
           <a>Why Exhibit</a>
         </Link>

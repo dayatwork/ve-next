@@ -100,7 +100,7 @@ const Programs: NextPage = () => {
                 layout="fill"
                 objectFit="contain"
                 className="rounded-xl"
-                src="/business-matching-frame.png"
+                src="/who-attend.png"
                 alt="About HEF"
               />
             </div>

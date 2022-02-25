@@ -28,7 +28,7 @@ export const Event = () => {
               alt="About HEF 2021"
             />
             <span className="mt-4 uppercase font-medium tracking-wider text-xs md:text-sm text-center">
-              About HEF 2021
+              About HEF 2022
             </span>
           </a>
         </Link>

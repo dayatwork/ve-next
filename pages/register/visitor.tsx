@@ -168,7 +168,7 @@ const RegisterVisitor: NextPage = () => {
               alt="logo ptpi"
             />
             <Link href="/">
-              <a className="text-2xl font-bold text-primary">HEF 2021</a>
+              <a className="text-2xl font-bold text-primary">HEF 2022</a>
             </Link>
           </a>
           <h2 className="text-3xl text-gray-800 font-bold">

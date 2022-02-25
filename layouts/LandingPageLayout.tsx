@@ -12,7 +12,7 @@ import {
 export const LandingPageLayout: React.FC = ({ children }) => {
   return (
     <>
-      <div className="bg-white border-gray-200 border">
+      <div className="bg-white border-gray-200 border hidden">
         <div className="text-white rounded-md overflow-hidden backdrop-filter backdrop-blur-xl">
           <Marquee
             speed={80}

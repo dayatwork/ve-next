@@ -68,7 +68,7 @@ export const Footer = () => {
       <footer className="bg-[#25243A]">
         <div className="max-w-7xl mx-auto py-6 px-2 grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="text-gray-400 text-sm self-center justify-self-center md:justify-self-start">
-            Copyright &copy; Hospital Engineering Expo 2021
+            Copyright &copy; Hospital Engineering Expo 2022
           </div>
           <div className="flex space-x-4 self-center justify-self-center ">
             <a
