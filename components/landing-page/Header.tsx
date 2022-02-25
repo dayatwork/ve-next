@@ -361,11 +361,11 @@ export const Header = () => {
                 </nav>
               </div>
             </div>
-            <div className="py-6 px-5 space-y-6">
+            <div className="py-6 px-5 space-y-6 ">
               <div>
-                <div className="grid grid-cols-2 gap-2">
+                <div className="grid grid-cols-2 gap-2"  style={{display:'none'}}>
                   <Link href="/register/exhibitor">
-                    <a className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:bg-primary-600 bg-primary">
+                    <a className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white hover:bg-primary-600 bg-primary" >
                       {t("register-as-exhibitor")}
                     </a>
                   </Link>
@@ -375,7 +375,7 @@ export const Header = () => {
                     </a>
                   </Link>
                 </div>
-                <p className="mt-6 text-center text-base font-medium text-gray-500">
+                <p className="mt-6 text-center text-base font-medium text-gray-500"  >
                   {t("already-register")}{" "}
                   <Link href="/login">
                     <a className="hover:text-primary-600 text-primary">
