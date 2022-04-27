@@ -25,7 +25,7 @@ export const StickyNav = () => {
                   height={40}
                 />
                 <div className="block text-2xl font-bold text-primary-500">
-                  HEF 2021
+                  HEF 2022
                 </div>
               </a>
             </div>

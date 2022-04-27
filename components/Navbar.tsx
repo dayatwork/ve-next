@@ -89,7 +89,7 @@ export const Navbar = ({ variant = "light", currentHref }: Props) => {
                       />
                     </div>
                     <div className="hidden lg:block text-2xl font-bold text-primary-500">
-                      HEF 2021
+                      HEF 2022
                     </div>
                   </div>
                   <div className="hidden lg:block">
@@ -321,7 +321,7 @@ export const Navbar = ({ variant = "light", currentHref }: Props) => {
 
                 {open ? (
                   <div className="-ml-3 block lg:hidden text-2xl font-bold text-primary-500">
-                    HEF 2021
+                    HEF 2022
                   </div>
                 ) : null}
                 {/* Toggle Mobile Nav Button */}

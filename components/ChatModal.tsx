@@ -119,7 +119,7 @@ export const ChatModal = ({ open, setOpen }: ChatModalProps) => {
                     {/* <!-- Chat list header --> */}
                     <div className="py-2 px-4 bg-primary-500 border-b border-gray-200 h-12 flex justify-between items-center">
                       <h3 className="text-xl font-medium text-white uppercase">
-                        HEF 2021 Chat
+                        HEF 2022 Chat
                       </h3>
                       <button
                         onClick={() => setOpen(false)}

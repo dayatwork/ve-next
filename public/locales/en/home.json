@@ -1,13 +1,13 @@
 {
   "countdown": {
-    "tag": "Are you ready for HEF 2021?",
+    "tag": "Are you ready for HEF 2022?",
     "days": "Days",
     "hours": "Hours",
     "minutes": "Minutes",
     "seconds": "Seconds",
     "event-tag": "Virtual",
     "event-title": "Hospital Engineering Forum",
-    "event-date": "21 May, 28 May, and 4 Juny 2022"
+    "event-date": "11, 18, and 25 June 2022"
   },
   "blog": {
     "header": "Blog & News",
@@ -17,8 +17,8 @@
   "cta": {
     "tag": "I'd like to be",
     "register-here": "Register Here",
-    "exhibitor-content": "Capture the immense growth of the healthcare market by being an Exhibitor at First Asia's National Seminar and International Fair, HEF 2021.",
-    "visitor-content": "Learn, network and do business as a Visitor at Hospital Engineering Forum 2021, The First Asia's National Seminar and International Fair in Healthcare Engineering."
+    "exhibitor-content": "Capture the immense growth of the healthcare market by being an Exhibitor at First Asia's National Seminar and International Fair, HEF 2022.",
+    "visitor-content": "Learn, network and do business as a Visitor at Hospital Engineering Forum 2022, The First Asia's National Seminar and International Fair in Healthcare Engineering."
   },
   "organized-by": "Organized by",
   "sponsored-by": "Sponsored by",
